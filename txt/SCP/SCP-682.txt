@@ -1,0 +1,32 @@
+    Objet # : SCP-682
+
+    Classe : Keter
+
+    Procedures de Confinement Speciales : SCP-682 doit etre detruit des que possible. Pour l'instant, aucun moyen a la disposition de la Fondation n'est capable de detruire SCP-682, 
+    seulement susceptible de provoquer des dommages physiques importants. SCP-682 doit etre contenu dans une chambre de 5m x 5m x 5m doublee de plaques d'acier de 25,4 cm d'epaisseur 
+    resistantes a l'acide chlorhydrique. La chambre de confinement doit etre remplie avec de l'acide jusqu'a ce que SCP-682 soit immerge et en stase. Toute tentative de SCP-682 visant
+    a se deplacer, a parler, ou a forcer le confinement doit etre immediatement stoppee avec la force rendue necessaire par les circonstances.
+
+
+    Le personnel ne doit pas parler a SCP-682, de peur de provoquer un etat de rage. Toutes les personnes non autorisees qui tentent de communiquer avec SCP-682 seront maitrisees et 
+    neutralisees par la force.
+
+
+    En raison de ses frequentes tentatives de rupture de confinement, des difficultes de confinement et de neutralisation qu'il presente, et de risques eleves d'exposition de 
+    l'existence de la Fondation, SCP-682 doit etre contenu dans le site-██. La Fondation utilisera au mieux ses ressources pour maintenir les terres situees dans un perimetre
+    de cinquante (50) kilometres libres de tout developpement humain.
+
+
+    Description : SCP-682 est une grande creature vaguement reptilienne d'origine inconnue. Elle semble etre extremement intelligente, et a ete observee discutant de maniere complexe
+    avec SCP-079 au cours de leur bref contact. SCP-682 semble vouer une haine a toute forme de vie, et l'a exprime dans plusieurs interviews au cours de son confinement. 
+    (Voir Addendum 682-B).
+
+    SCP-682 a toujours ete observe dote d'une force extremement grande, d'une grande vitesse et de bon reflexes, meme si les niveaux exacts varient en fonction de son etat. 
+    Le corps physique de SCP-682 se developpe et evolue tres rapidement, grandissant ou diminuant tandis qu'il consume ou rejette de la matiere. SCP-682 consomme l'energie de tout ce 
+    qu'il ingere, organique ou non-organique. La digestion semble etre facilitee par un ensemble de branchies de filtrage a l'interieur des narines de SCP-682. Celles-ci sont en mesure 
+    d'utiliser les matieres exploitables de toute solution liquide, ce qui lui permet de constamment se regenerer a partir de l'acide. Ses capacites de regeneration sont enormes, et 
+    SCP-682 a ete observe en train de se deplacer alors que son corps etait detruit ou pourri a 87%.
+
+    En cas de rupture de confinement, SCP-682 doit etre traque et recupere en mobilisant toutes les forces d'intervention mobiles disponibles, et aucune equipe de moins de sept 
+    (7) membres n'est autorisee a l'affronter. A ce jour (██-██-████), le nombre de tentatives de violation de confinement s'eleve a dix-sept (17), tandis que les evasions reussies 
+    sont au nombre de six (6). (Voir Addendum 682-D).

@@ -1,0 +1,21 @@
+    Objet # : SCP-173
+
+    Classe : Euclide
+
+    Procedures de Confinement Speciales : L'objet SCP-173 doit etre conserve dans un conteneur verrouille en toutes circonstances. Lorsque des membres du personnel doivent entrer dans 
+    la chambre de confinement de SCP-173, ils doivent systematiquement etre un minimum de trois personnes, et la porte doit etre immediatement reverrouillee derriere eux. A tout moment,
+    deux personnes doivent maintenir un contact visuel direct avec SCP-173 et ce, jusqu'a ce que tous les membres du personnel aient quitte et reverrouille le conteneur.
+
+
+    Description : Transfere au Site-19 en 1993. Origine inconnue jusqu'a present. Il est constitue de barres d'armature et de beton comportant des traces de peinture aerosol de marque
+    Krylon. SCP-173 est anime et extremement hostile. L'objet ne peut pas bouger tant qu'il se trouve dans un champ visuel direct. Il est imperatif que le contact visuel avec SCP-173 
+    ne soit pas interrompu. Les membres du personnel assignes a entrer dans le conteneur sont charges de s'alerter mutuellement avant de cligner des yeux. L'objet attaque en brisant le
+    cou de la victime a la base du crane, ou par strangulation. Dans le cas d'une attaque, le personnel doit respecter les procedures de confinement de Classe 4 concernant les objets 
+    dangereux.
+
+
+    Le personnel a rapporte avoir entendu des bruits de grattements provenant de l'interieur du conteneur lorsque personne n'est present a l'interieur. Ceci est considere comme normal, 
+    et toute modification de ce comportement doit etre signale au Superviseur en service.
+
+    La substance brun rougeatre sur le sol est une combinaison de matieres fecales et de sang. L'origine de ces substances est inconnue. La salle doit etre nettoyee
+    selon une frequence bi-hebdomadaire.

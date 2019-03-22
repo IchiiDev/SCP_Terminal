@@ -1,0 +1,7 @@
+LISTE DES COMMANDES:
+scp view [NUMBER]: Voir le rapport d'un scp
+scp list: Voir la liste des scp
+commands: Voir la liste des commandes
+stop|logout|disconnect|close: Fermer le terminal
+rapport list: Voir la liste des rapports
+rapport view [NUMBER]: Voir un rapport
