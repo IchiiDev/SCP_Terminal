@@ -8,6 +8,7 @@ time.sleep(2)
 print('Connecting to the foundation database')
 time.sleep(5)
 print('Connexion failed ! Turning to local save !')
+print("SCP Terminal by Ichii#5999")
 f = open('txt/assets/logo.txt', 'r')
 file_contents = f.read()
 print (file_contents)
@@ -47,7 +48,9 @@ while setwhile == 1:
                     if y == 'list':
                         scplist = os.listdir('txt/SCP/')
                         print('LISTE DES SCP DE LA BASE DE DONNEE:')
-                        print(scplist)
+                        for i in range(len(scplist)):
+                            value = scplist[i]
+                            print("- " + value[:-4])
         else:
             if x == 'commands':
                 f = open('txt/assets/cmd.txt', 'r')
@@ -72,7 +75,9 @@ while setwhile == 1:
                         if y == 'list':
                             print('LISTE DES RAPPORTS:')
                             rlist = os.listdir('txt/rapports/')
-                            print(rlist)
+                            for i in range(len(rlist)):
+                                value = rlist[i]
+                                print("- " + value[:-4])
                         else:
                             if y == '1':
                                 print('[ERROR]: Syntaxe: rapport list|view [NOM]')
