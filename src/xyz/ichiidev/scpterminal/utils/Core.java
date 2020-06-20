@@ -4,8 +4,7 @@ import xyz.ichiidev.scpterminal.utils.data_types.User;
 import xyz.ichiidev.scpterminal.utils.functions.APIUtils;
 import xyz.ichiidev.scpterminal.utils.functions.ConsoleUtils;
 
-import java.io.Console;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 
 public class Core {
@@ -30,7 +29,7 @@ public class Core {
 				System.out.println("Liste des commandes:\n- help: Affichez l'aide\n- close: Fermez le terminal\n- show: Affichez un rapport de la base de donnée\n- clear: Nettoyez la console");
 				break;
 			case "show":
-				String report = null;
+				String report;
 				try {report = command_args[1];} catch (ArrayIndexOutOfBoundsException e) {
 					System.out.println("[ERROR] Merci de spécifier un rapport à rechercher");
 					break;
@@ -39,7 +38,9 @@ public class Core {
 				if (report_text.equals("error")) {System.out.println("Une erreur s'est produite avec la commande, merci de la signaler sur le GitHub (https://github.com/IchiiSama/SCP_Terminal)"); break;}
 				if (report_text.equals("unknown_report")) {System.out.println("[ERROR] Le rapport recherché n'existe pas"); break;}
 				if (report_text.equals("insufficient_permissions")) {System.out.println("[ERROR] Vous n'avez pas la permission de lire ce rapport"); break;}
+				// PrintStream out = new PrintStream(System.out, true, "UTF-8");
 				System.out.println(report_text);
+				// System.out.println("Ceci est un test effectué pour tester l'encodage UwU (SDszdésds,ddd::!!!è)");
 				break;
 			case "clear":
 				ConsoleUtils.clearConsole();
@@ -60,7 +61,7 @@ public class Core {
 				msg.append("Adresse: ").append(gotUser.username).append("@FondationSCP.fr\n");
 				msg.append("Nom Complet: ").append(gotUser.full_name).append("\n");
 				msg.append("Grade: ").append(gotUser.rank).append("\n");
-				msg.append("Accréditation: " + gotUser.permission);
+				msg.append("Accréditation: ").append(gotUser.permission);
 				System.out.println(msg.toString());
 				break;
 			case "list":

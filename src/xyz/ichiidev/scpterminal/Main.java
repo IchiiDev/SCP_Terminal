@@ -6,12 +6,10 @@ import xyz.ichiidev.scpterminal.utils.data_types.User;
 import xyz.ichiidev.scpterminal.utils.functions.ConsoleUtils;
 
 import java.io.IOException;
-import java.io.PrintStream;
 
 public class Main {
 
     public static void main(String[] args) throws IOException, InterruptedException {
-		System.setOut(new PrintStream(System.out, true, "UTF-8"));
 		ConsoleUtils.clearConsole();
 		if (!(Startup.boot().equals("ready"))) return;
 		ConsoleUtils.clearConsole();

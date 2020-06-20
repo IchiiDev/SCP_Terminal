@@ -2,7 +2,6 @@ package xyz.ichiidev.scpterminal.utils;
 
 import org.json.JSONException;
 import org.json.JSONObject;
-import xyz.ichiidev.scpterminal.Main;
 import xyz.ichiidev.scpterminal.utils.data_types.User;
 import xyz.ichiidev.scpterminal.utils.functions.JSON;
 
