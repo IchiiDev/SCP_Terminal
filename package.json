@@ -1,0 +1,23 @@
+{
+  "name": "scp_terminal",
+  "version": "1.0.0",
+  "description": "An Electron based SCP Foundation terminal.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:win32": "electron-forge make --arch x64 --platform win32",
+    "build:mac": "electron-forge make --arch x64 --platform darwin",
+    "build:linux": "electron-forge make --arch x64 --platform linux"
+  },
+  "repository": "https://github.com/IchiiDev/SCP_Terminal",
+  "keywords": [
+    "Electron",
+    "SCP_Foundation",
+    "Roleplay"
+  ],
+  "author": "Ichii",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^11.1.1"
+  }
+}

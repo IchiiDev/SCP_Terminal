@@ -1,0 +1,11 @@
+# NodeJS modules directory
+/node_modules
+
+# Electron-Forged builds
+/out
+
+# NodeJS lock file
+package-lock.json
+
+# Editors Folder
+.vscode
