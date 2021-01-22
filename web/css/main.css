@@ -1,0 +1,7 @@
+html, body { height: 100%; background-color: #2C2F33; color: white; }
+body div.column { border-right: 1px solid; display: flex; }
+.data-display { padding-right: 0; padding-bottom: 0; }
+.info-footer { width: 100%; display: inline-block; align-self: flex-end; background-color: #23272A; padding: 1em; text-align: center; }
+.info-footer p { font-size: 1rem; }
+.info-footer a:hover { color: white; }
+::-webkit-scrollbar { display: none; }
